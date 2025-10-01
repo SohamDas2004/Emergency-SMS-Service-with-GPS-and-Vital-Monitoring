@@ -8,10 +8,10 @@ const char* ssid = "TECNO SPARK 10C";
 const char* password = "abhra2004";
 
 // Twilio credentials
-const char* account_sid = "AC1b2adb15ada3a331b9840b6e5bcf2a47";
-const char* auth_token = "bff6a15d7691c3ec437e280fb7338eb8";
-const char* from_number = "+12569214915";
-const char* to_number = "+918918006536";
+const char* account_sid = "";
+const char* auth_token = "";
+const char* from_number = "";
+const char* to_number = "";
 
 
 // GPS coordinates
