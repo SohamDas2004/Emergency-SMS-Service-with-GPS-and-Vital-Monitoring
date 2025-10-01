@@ -12,9 +12,9 @@
 #include <ArduinoJson.h>
 
 // ----------- USER CONFIG -------------
-const char* WIFI_SSID     = "TECNO SPARK 10C";
-const char* WIFI_PASSWORD = "abhra2004";
-const char* GOOGLE_API_KEY = "AIzaSyBTFgNgUKREmqIldGOhzKtb4sr4C_wvSjA";  // replace with your API key
+const char* WIFI_SSID     = "";
+const char* WIFI_PASSWORD = "";
+const char* GOOGLE_API_KEY = "";  // replace with your API key
 // -------------------------------------
 
 const char* GEOLOCATE_ENDPOINT = "https://www.googleapis.com/geolocation/v1/geolocate?key=";
