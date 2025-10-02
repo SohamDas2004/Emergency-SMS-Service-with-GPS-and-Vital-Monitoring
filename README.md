@@ -1,6 +1,6 @@
 # Emergency-SMS-Service-with-GPS-and-Vital-Monitoring
 
-## Author: SOHAM DAS (UNDERGRAD)
+### Author: SOHAM DAS (UNDERGRAD)
 
 The wearable integrates multiple biomedical sensors, including blood pressure (BP) sensors, SpO2 sensors. These sensors continuously monitor the user’s vital signs, which are processed by an ESP32 microcontroller. The system is further integrated with Goole Cloud’s Geolocation API to provide real-time location data. When the SOS button is pressed, the system triggers an automatic emergency alert service.
 
